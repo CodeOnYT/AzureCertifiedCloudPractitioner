@@ -8,8 +8,6 @@ In this hands-on lab, we will use the Azure Portal to create and connect to an A
 
 ## **Log into the Azure Portal**
 
-
-
 * Log in to the Azure portal using the credentials provided on the lab page. Be sure to use an incognito or private browser window to ensure you're using the lab account rather than your own.
 * Take note of the region for the lab-provided resource group.
 
